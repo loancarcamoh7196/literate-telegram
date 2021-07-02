@@ -1,0 +1,14 @@
+{
+  "name": "cumpleannos",
+  "version": "1.0.0",
+  "description": "Ingresa tu fecha de naciemiento y te dare la fecha de la semana que naciste",
+  "main": "cumpleannos.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lorena Carcamo",
+  "license": "MIT",
+  "dependencies": {
+    "luxon": "^1.27.0"
+  }
+}
